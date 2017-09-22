@@ -1,6 +1,15 @@
 # Build Log of custom hand wired keyboard!!
 
-<p> Designed and got the svg files cut onto acrylic through Ponoko </p>
+<b> Materials Used: </b>
+<ul>
+  <li> Pro Micro Arduino </li>
+  <li> Wires </li>
+  <li> 1N4148 Diodes </li>
+  <li> White blank keycaps from Maxkeyboards </li>
+  <li> M2 screws 16mm (they don't even fit the case because the holes are cut slightly too big </li>
+</ul>
+
+<p> Designed and got the svg files cut onto acrylic (3mm) through Ponoko </p>
 
 <img src="https://i.imgur.com/f5fYcVC.jpg">
 <img src="https://i.imgur.com/oxag0tj.jpg">
