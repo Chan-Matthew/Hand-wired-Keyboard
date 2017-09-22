@@ -6,6 +6,7 @@
   <li> Wires </li>
   <li> 1N4148 Diodes </li>
   <li> White blank keycaps from Maxkeyboards </li>
+  <li> 62g Zealios switches </li>
   <li> M2 screws 16mm (they don't even fit the case because the holes are cut slightly too big) </li>
 </ul>
 
