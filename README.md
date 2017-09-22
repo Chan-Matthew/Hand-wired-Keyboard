@@ -15,3 +15,10 @@
 <img src="https://i.imgur.com/zBRhvDB.jpg">
 <p> Then the rows (with diodes) </p>
 <img src="https://i.imgur.com/gotZmfG.jpg">
+
+<p> Wired each row and column to the Arduino </p>
+<img src="https://i.imgur.com/w5n0C6L.jpg">
+
+<p> Keycaps and finally done! </p>
+<img src="https://i.imgur.com/7K0RqDY.jpg">
+<img src="https://i.imgur.com/Rv9HT1Q.jpg">
