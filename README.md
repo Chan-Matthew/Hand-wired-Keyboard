@@ -6,7 +6,7 @@
   <li> Wires </li>
   <li> 1N4148 Diodes </li>
   <li> White blank keycaps from Maxkeyboards </li>
-  <li> M2 screws 16mm (they don't even fit the case because the holes are cut slightly too big </li>
+  <li> M2 screws 16mm (they don't even fit the case because the holes are cut slightly too big) </li>
 </ul>
 
 <p> Designed and got the svg files cut onto acrylic (3mm) through Ponoko </p>
